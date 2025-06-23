@@ -11,7 +11,6 @@ Quando viene rilevato un click destro, lo script manda un segnale ad Arduino che
 
 - Python 3
 - Librerie Python: `pyserial` e `pynput`
-'''bash
-pip install pyserial
-'''bash
-pip install pynput
+#Intallale con questo comando:
+```bash
+pip install pyserial pynput
